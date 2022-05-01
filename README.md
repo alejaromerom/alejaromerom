@@ -1,4 +1,4 @@
-### Hi everyone, I'm MarIA Alejandra Romero👋
+### Hi everyone, I'm Maria Alejandra Romero👋
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 👓 Knowledge on HTML, CSS and JavaScript
 - 🔭 I’m currently working on new projects and studying Software Engineering 
