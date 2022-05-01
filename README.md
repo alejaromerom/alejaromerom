@@ -7,7 +7,15 @@
 - ⚡ I love music 🎶
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Front end Junior Developer
+### Front end Junior Developer
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Github Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejaromerom&theme=tokyonight)                               ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejaromerom&show_icons=true&theme=radical)
+
+
+
 
 <!--
 **alejaromerom/alejaromerom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
