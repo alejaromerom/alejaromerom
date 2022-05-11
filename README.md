@@ -21,7 +21,7 @@
 ###Front end Junior Developer 
 
 
-[CV-ALEJANDRA_ROMERO.pdf](https://github.com/alejaromerom/alejaromerom/files/8671465/CV-ALEJANDRA_ROMERO.pdf)
+
 
 
 
