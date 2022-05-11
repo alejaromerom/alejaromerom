@@ -29,21 +29,21 @@
 <div align="center">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ale-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="ale-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ale-Bootsrap" height="30" width="40" src="https://user-images.githubusercontent.com/43914899/167901151-530e0324-5579-44eb-8473-1df83f7cd229.png">
- <img align="center" alt="ale-MySQL" height="30" width="50![nodejs](https://user-images.githubusercontent.com/43914899/167902729-2f2a1f56-d250-419a-8dbe-a6f2331ffa59.svg)
-" src="https://user-images.githubusercontent.com/43914899/167901872-8dc302f7-100a-4e80-b683-0dd80cd66209.png">
- <img align="center" alt="ale-Bootsrap" height="30" width="40" src="https://user-images.githubusercontent.com/43914899/167902843-5a125bc5-9c0c-4a1b-8eed-d918c6bda223.svg">
+ 
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+  <code><img height="30" src="https://user-images.githubusercontent.com/43914899/167901151-530e0324-5579-44eb-8473-1df83f7cd229.png"></code>
+  <code><img height="30" src="https://user-images.githubusercontent.com/43914899/167901872-8dc302f7-100a-4e80-b683-0dd80cd66209.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/43914899/167910497-9947381c-091a-4dcd-bbb7-55f1017d3b97.png">
+  <img align="right" alt="ale-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/43914899/167910497-9947381c-091a-4dcd-bbb7-55f1017d3b97.png">
 </div>
 
-  ##
+  
 
 <div> 
 
