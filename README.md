@@ -4,7 +4,7 @@
 
 - 👓 Knowledge on HTML, CSS and JavaScript
 - 🔭 I’m currently working on new projects and studying Software Engineering 
-- 🌱 Improving skills about MYSQL,MongoDb NodeJs and React  
+- 🌱 Improving skills about Web Development 
 - 📫 How to reach me: https://www.linkedin.com/in/alejaromerom/
 - ⚡ I love music 🎶
 
