@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-- 👓 Knowledge on HTML, CSS and JavaScript
+- 👓 Knowledge on HTML5, CSS3 and JavaScript
 - 🔭 I’m currently working on new projects and studying Software Engineering 
 - 🌱 Improving skills about Web Development 
 - 📫 How to reach me: https://www.linkedin.com/in/alejaromerom/
@@ -31,7 +31,6 @@
 <div style="display: inline_block"><br>
  
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
