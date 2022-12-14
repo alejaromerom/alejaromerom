@@ -3,7 +3,7 @@
 
 
 - 👓 Knowledge on HTML5, CSS3 and JavaScript
-- 🔭 I’m currently working on new projects and studying Software Engineering 
+- 🔭 I’m currently working on new projects and studying different technologies 
 - 🌱 Improving skills about Web Development 
 - 📫 How to reach me: https://www.linkedin.com/in/alejaromerom/
 - ⚡ I love music 🎶
@@ -15,14 +15,8 @@
 
 ### Github Stats
 
-<div align="center">
-  <a href="https://github.com/alejaromerom">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alejaromerom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejaromerom&layout=compact&langs_count=7&theme=dracula"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
     
-
-    
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alejaromerom&theme=dracula" width=""> 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
