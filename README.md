@@ -6,11 +6,11 @@ I'm a self-taught creative developer from Colombia
 
 **About me**
 
-- 👓 Knowledge on HTML5, CSS3 and JavaScript
+- 👓 Knowledge on HTML5, CSS3,JavaScript,JavaScript and Python
 
 - 🔭 I’m currently working on new projects and studying different technologies 
 
-- 🌱 Improving skills about Web Development 
+- 🌱 Improving skills about Web and Back Development
 
 - 📫 How to reach me: https://www.linkedin.com/in/alejaromerom/
 
