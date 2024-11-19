@@ -6,7 +6,7 @@ I'm a self-taught creative developer from Colombia
 
 **About me**
 
-- 👓 Knowledge on HTML5, CSS3,JavaScript,JavaScript and Python
+- 👓 Knowledge on HTML5, CSS3,JavaScript,JavaScript and Python 
 
 - 🔭 I’m currently working on new projects and studying different technologies 
 
