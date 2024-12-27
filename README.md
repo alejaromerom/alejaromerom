@@ -34,8 +34,6 @@ I'm a self-taught creative developer from Colombia
 | ------------- | ------------- |
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejaromerom&&theme=tokyonight" alt="alejaromerom" /></p>
-
 <br />
 <br />
 
