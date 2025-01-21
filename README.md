@@ -6,7 +6,7 @@ I'm a self-taught creative developer from Colombia
 
 **About me**
 
-- 👓 Knowledge on HTML5, CSS3,JavaScript, React, SASS, learnig TailwindCSS
+- 👓 Knowledge on HTML5, CSS3,JavaScript, React, SASS, learniNg TailwindCSS
 
 - 🔭 I’m currently working on new projects and studying different technologies 
 
