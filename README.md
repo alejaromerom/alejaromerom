@@ -1,62 +1,65 @@
-<p align="center"> Hello, I'm Alejandra!</p>
+<!-- 🌸 README by Alejandra Romero 🌸 -->
 
-<br />
+<h1 align="center">✨ Hello, I'm Alejandra! ✨</h1>
 
-I'm a self-taught creative developer from Colombia
+<p align="center">
+  <em>I'm a self-taught and creative Fullstack Developer from Colombia 🇨🇴</em>
+</p>
 
-**About me**
+---
 
-- 👓 Knowledge on HTML5, CSS3,JavaScript, React, SASS, learning TailwindCSS
+### 🌷 About Me  
+💻 Currently learning **Fullstack Development** — combining my love for design and logic!  
+🌸 Passionate about **Frontend** with **React**, **TailwindCSS** & **SASS**  
+⚙️ Exploring the **Backend world** with **Python (Django)** and **Java**  
+📚 I’m always learning and building new things to grow as a developer  
+🎧 Music lover & creative soul 🌙  
+💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/alejaromerom/)  
 
-- 🔭 I’m currently working on new projects and studying different technologies 
+---
 
-- 🌱 Improving skills about Web and Back Development
+### 🪄 Tech Stack  
 
-- 📫 How to reach me: https://www.linkedin.com/in/alejaromerom/
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+</p>
 
-- ⚡ I love music 🎶
+---
 
+### 🌙 GitHub Highlights  
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/43914899/167901151-530e0324-5579-44eb-8473-1df83f7cd229.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/43914899/167901872-8dc302f7-100a-4e80-b683-0dd80cd66209.png"></code>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alejaromerom&show_icons=true&theme=midnight-purple&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejaromerom&layout=compact&theme=midnight-purple&hide_border=true" height="160"/>
+</p>
 
+---
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🌸 Let’s Connect  
 
-### Github Stats
+<p align="center">
+  <a href="mailto:tuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alejaromerom/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-| <a href="https://github.com/a/github-readme-stats"><img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/alejaromerom?theme=github-dark&cardType=github" alt="Alejandra's github stats" /></a> | <a href="https://github.com/alejaromerom/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejaromerom&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></a> |
-| ------------- | ------------- |
+---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+creative+projects+🌼;Learning+Fullstack+Development+💻;Turning+ideas+into+reality+✨&center=true&width=500&color=BD93F9&vCenter=true&size=20" />
+</p>
 
-<br />
-<br />
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<div align="center">
-<div style="display: inline_block"><br>
- 
- 
- <img align="right" alt="ale-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/43914899/167910497-9947381c-091a-4dcd-bbb7-55f1017d3b97.png">
-</div>
-
-  
-
-<div>
-
-  <a href="https://instagram.com/alejaromdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:aleromero43@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alejaromerom" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</div>
-
-
-
-
+<p align="center">
+  <img src="https://github.com/alejaromerom.png" width="100" style="border-radius:50%;"/>
+</p>
